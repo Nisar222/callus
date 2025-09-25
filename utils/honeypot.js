@@ -1,0 +1,1 @@
+// honeypot.js - placeholder content
